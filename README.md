@@ -1,7 +1,22 @@
 #### *Technical Skills: Power BI, Canva, Python spripts*
 ## Project Objective: 
-The objective of this project is to analyze and visualize data on the number of nurseries, their availability at the national level and across voivodeships, as well as the monthly costs associated with childcare and their regional distribution. 
-Additionally, interactive reports have been developed to enable efficient filtering and searching of nurseries across the country based on selected criteria, such as location and price range, providing users with a clear and data-driven overview of childcare accessibility. 
+The objective of this project is to develop a comprehensive financial dashboard for Paper & Ink Co. to support strategic financial analysis and reporting. The dashboard integrates key financial data and visualizations to provide stakeholders with a clear and consolidated view of the company’s financial health. 
+
+This dashboard enables: 
+
+- Real-time tracking of Revenue, COGS, Gross Profit, Operating Expenses, and Net Profit. 
+
+- Income Statement reports with monthly breakdowns of revenue streams, costs, EBITDA, and Net Income. 
+
+- Balance Sheet reports showing the structure of Assets, Liabilities, and Equity over time. 
+
+- Analysis of financial performance by Account and Category, enabling drill-down capabilities. 
+
+- Currency switch between Local Currency and USD. 
+
+- Filtering by Year and Month for customized time-period analysis.
+
+- Helps finance teams monitor trends, assess profitability, and ensure accurate financial planning. 
 
 ## Dataset Involved:
 The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country.
