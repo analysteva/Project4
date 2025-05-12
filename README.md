@@ -1,4 +1,4 @@
-#### *Technical Skills: Excel, Power BI, Canva*
+#### *Technical Skills: Power BI, Canva, Python spripts*
 ## Project Objective: 
 The objective of this project is to analyze and visualize data on the number of nurseries, their availability at the national level and across voivodeships, as well as the monthly costs associated with childcare and their regional distribution. 
 Additionally, interactive reports have been developed to enable efficient filtering and searching of nurseries across the country based on selected criteria, such as location and price range, providing users with a clear and data-driven overview of childcare accessibility. 
