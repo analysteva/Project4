@@ -19,14 +19,14 @@ This dashboard enables:
 - Helps finance teams monitor trends, assess profitability, and ensure accurate financial planning. 
 
 ## Dataset Involved:
-The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country.
+The dashboard was built using multiple datasets containing synthetic transaction records. These datasets were generated with Python scripts designed to simulate diverse financial scenarios. Each dataset represents transactions posted to specific accounts across different periods, supporting the construction of the income statement and balance sheet views.
 
-<B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table</a>
+<B>*Download file script from Github:*</B> <a href="https://github.com/analysteva/Project1-/blob/61adb5320e7d083e70abda01e7cc191ac5b9aaa4/RZ-instytucje.csv"> generate_transactions_BS_Jan_Dec_2022 </a>
 
-<B>*Download file from Github:*</B> <a href="https://github.com/analysteva/Project1-/blob/61adb5320e7d083e70abda01e7cc191ac5b9aaa4/RZ-instytucje.csv"> RZ-instytucje.csv </a>
+<B>*Download file script from Github:*</B> <a href="https://github.com/analysteva/Project1-/blob/61adb5320e7d083e70abda01e7cc191ac5b9aaa4/RZ-instytucje.csv"> generate_transactions_IS_Jan_Dec_2022 </a>
 
 ## Data Visualization:
-Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
+Below visuals have been made in Power BI desktop and describing results gathered from the datasets:
 
 *Country-level data insights:*
 
